@@ -6,7 +6,7 @@ This repository contains my professional CV in HTML format.
 
 ## 📄 Live CV
 View my CV here:  
-https://kusaselihle07.github.io/kusaselihle-nene-cv/
+https://kusaselihle07.github.io/cv-kusaselihle/
 
 ---
 
